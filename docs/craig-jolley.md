@@ -3,3 +3,4 @@
 - **Hobby:** Running
 - **Food:** Tempura
 - **Favorite color:** Dark blue, I guess.
+- **Favorite text editor:** gedit
