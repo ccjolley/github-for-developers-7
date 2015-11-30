@@ -2,3 +2,4 @@
 - **From:** Tacoma, WA, USA
 - **Hobby:** Running
 - **Food:** Tempura
+- **Favorite color:** Dark blue, I guess.
